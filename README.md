@@ -13,6 +13,7 @@
 * Commands are sent flying through space, and are only executed after being received at Mars
 * Demonstrates the challenge of dealing with communication latency over vast distances in space
 ## How To Play
+* Run `Red Rover.exe`
 * Hit `spacebar` to enable command log
 * Use `arrow keys` (i.e. `left`, `right`, `up`, `down`) to program robot maneuvers
 * Hit `spacebar` again to confirm the command packet
